@@ -1,0 +1,35 @@
+
+.create-input{
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    font-size: 12.6px;
+    padding:8px 11px;
+    margin:10px 0;
+    outline-color: #209FCA;
+    width: 100%;
+}
+.dropdown-item{
+    margin:10px 0;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    width: 100%;
+}
+.cancel-btn{
+    text-decoration: none;
+    margin-right: 10px;
+    padding:8px 16px;
+    color:#209FCA;
+    border-radius: 4px;
+    border:1px solid #209FCA;
+    background-color: white;
+    cursor: pointer;
+}
+.submit-btn{
+    text-decoration: none;
+    margin-right: 10px;
+    padding:8px 16px;
+    color:white;
+    border-radius: 4px;
+    background-color: #2FA360;
+    cursor: pointer;
+}
